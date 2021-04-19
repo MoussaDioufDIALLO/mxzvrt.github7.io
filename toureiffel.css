@@ -1,0 +1,98 @@
+nav a{
+    display: inline-block; 
+    background-color:black;
+    color:white;
+    padding-left: 150px;
+    font-weight: bold;
+    font-size: 20px;
+   
+ }
+ header{
+     background-color: black;
+     margin-top: -25px;
+     margin-left: -10px;
+     margin-right: -10px;
+ }
+ h1{
+     color: white;
+     text-align: center;
+     font-family: Freestyle Script;
+ }
+ a:hover{
+     background-color: rgb(78, 74, 74);
+     border: 1;
+     border-radius: 20px 20px;
+     color: tomato;
+ }
+ .im5{
+     margin: 0px;
+     height: 500px;
+     position: absolute;
+     margin-left: -10px;
+     width: 211vh;
+     border: cover;
+ }
+ .p7{
+     position: relative;
+     color: white;
+     text-align: center;
+     padding-top: 200px;
+     padding-left: 400px;
+     font-size: 40px;
+     font-family: Freestyle Script;
+ }
+ .p8{
+     position: relative;
+     float: left;
+     padding-top: 50px;
+     font-weight: bold;
+     color: white;
+     
+ }
+ 
+ .vid1{
+     width: 600px;
+     height: 400px;
+     margin-top: -40px;
+     margin-left: -10px;
+ }
+ .im9{
+    width: 99vh;
+    height: 500px;
+    margin-left: -30px;
+    margin-top: -5px;
+    float: left;
+}
+.p9{
+    float: left;
+    font-size: 40px;
+    font-weight: bold;
+    padding-right: 170px;
+    padding-top: 50px;
+    color: white;
+    padding-left: 40px;
+}
+.p10{
+    color: white;
+}
+body{
+    background-color: black;
+}
+.im10{
+    width: 205vh;
+    height: 200px;
+}
+a{
+    transition: color 1s;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0px ;
+    margin-bottom: -20px;
+    margin-left: -10px;
+   
+
+}

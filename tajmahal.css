@@ -1,0 +1,75 @@
+nav a{
+    display: inline-block; 
+    background-color:black;
+    color:white;
+    padding-left: 150px;
+    font-weight: bold;
+    font-size: 20px;
+   
+ }
+ header{
+     background-color: black;
+     margin-top: -25px;
+     margin-left: -10px;
+     margin-right: -10px;
+ }
+ h1{
+     color: white;
+     text-align: center;
+     font-family: Freestyle Script;
+ }
+ a:hover{
+     background-color: rgb(78, 74, 74);
+     border: 1;
+     border-radius: 20px 20px;
+     color: tomato;
+ }
+ a{
+    transition: color 1s;
+    text-decoration: none;
+}
+.im13{
+    width: 208vh;
+    height: 500px;
+    margin-top: -17px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.im14{
+    width: 100vh;
+    height: 500px;
+    margin-left: -10px;
+    margin-top:-5px ;
+    float: left;
+}
+.taj{
+    font-size: 40px;
+    font-weight: bold;
+}
+.taje{
+    font-weight: bold;
+    font-family: Arial Rounded MT;
+    font-size: 25px;
+    color: white;
+    
+}
+body{
+    background-color: black;
+}
+.im15{
+    width: 208vh;
+    height: 500px;
+    margin-top: -30px;
+    margin-left: -10px;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0px ;
+    margin-bottom: -20px;
+    margin-left: -10px;
+   
+
+}

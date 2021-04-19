@@ -1,0 +1,87 @@
+nav a{
+   display: inline-block; 
+   background-color:black;
+   color:white;
+   padding-left: 150px;
+   font-weight: bold;
+   font-size: 20px;
+}
+header{
+    background-color: black;
+    margin-top: -25px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: Freestyle Script;
+}
+a:hover{
+    background-color: rgb(78, 74, 74);
+    border: 1;
+    border-radius: 20px 20px;
+    color: tomato;
+}
+.vid1{
+    width: 200vh;
+    height: 500px;
+}
+.im1{
+    width: 100vh;
+    height: 500px;
+}
+.p1{
+    float: right;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Lucida Calligraphy;
+    padding-top: 100px;
+    color: rgb(219, 163, 9);
+}
+.im2{
+    float: right;
+    width: 104vh;
+    height: 500px;
+}
+.p2{
+    margin-top: -17px;
+}
+.p3{
+    float: left;
+    padding-top: 200px;
+    padding-left: 140px;
+    font-weight: bold;
+    font-family: Freestyle Script;
+    font-size: 40px;
+    color: rgb(219, 163, 9);
+}
+.im3{
+    margin-left: -10px;
+   width: 206vh;
+    height: 250px;
+    
+}
+.p4{
+    font-family: Freestyle Script;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0px ;
+    margin-bottom: -20px;
+    margin-left: -10px;
+   
+
+}
+body{
+    background-color: black;
+}
+a{
+    transition: color 1s;
+    text-decoration: none;
+}
